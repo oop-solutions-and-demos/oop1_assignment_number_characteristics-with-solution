@@ -1,12 +1,8 @@
 # Object Oriented Programming with Java - Assignment Base Repository
 
-## About the Author
+This is an assignment for the course Object Oriented Programming with Java for students of VIVES University in Bruges.
 
-This repository belongs to **please_enter_your_name_here**. I am a student at VIVES University in Bruges.
-
-This repository contains the solution to the assignment that we had to make in the LABs of the course Object Oriented Programming with Java.
-
-The report can be found in [report.md](./report.md)
+<!-- Short description of the goal goes here -->
 
 ## Assignment
 
