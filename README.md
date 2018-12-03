@@ -18,23 +18,24 @@ Create a new application that requests two integral numbers from the user. Your 
 Example output:
 
 ```text
-Welcome to my number properties app. Input two numbers and I will tell you some important
-characteristics about them. You can even input negative numbers.
+Welcome to my number properties app.
+Input two numbers and I will tell you some important characteristics about them. You can even input negative numbers.
 
 Please input the first number: 15
 Please input the second number: -30
 
-    - first + second = 15
-    - first - second = 45
-    - The biggest number is the first (15)
-    - The first number is:
-        - uneven
-        - positive
-        - square is 225
-    - The second number is:
-        - even
-        - negative
-        - square is 900
+Thank you. Here is some info about these numbers:
+        - first + second = -15
+        - first - second = 45
+        - The biggest number is the first (15)
+        - The first number is:
+                - uneven
+                - positive
+                - square is 225
+        - The second number is:
+                - even
+                - negative
+                - square is 900
 
 Thank you for using this application made by Nico.
 ```
