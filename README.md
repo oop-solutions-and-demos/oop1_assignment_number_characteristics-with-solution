@@ -38,3 +38,13 @@ Please input the second number: -30
 
 Thank you for using this application made by Nico.
 ```
+
+## Solution
+
+The solution to this assignment can be found in the solution branch. Clone the repo and checkout the branch.
+
+```shell
+git clone https://github.com/oop-solutions-and-demos/oop1_assignment_number_characteristics-with-solution.git
+cd oop1_assignment_number_characteristics-with-solution
+git checkout solution
+```
